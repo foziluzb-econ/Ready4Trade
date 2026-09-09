@@ -1,6 +1,6 @@
 # Ready4Trade
 
-**Ready4Trade** is a digital export-intelligence and market-access platform designed to help Uzbek SMEs, manufacturers, exporters, and entrepreneurs move from a local product to an international market through one accessible digital ecosystem.
+**Ready4Trade** is a digital export-intelligence and market-access platform designed to help Uzbek and Slovak SMEs, manufacturers, exporters, and entrepreneurs move from a local product to an international market through one accessible digital ecosystem.
 
 > **From a local product to a global market.**
 
