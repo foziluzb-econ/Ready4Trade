@@ -7,7 +7,7 @@
 ## Live MVP
 
 - **Telegram Bot:** https://t.me/Ready4Trade_bot
-- **Telegram Channel:** https://t.me/Ready4Trade_Global
+- **Telegram Channel:** https://t.me/ExportMarkets
 - **Project Links:** https://taplink.cc/ready4trade
 - **Export Opportunity Navigator:** https://ready4trade.pages.dev/
 
